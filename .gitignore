@@ -19,7 +19,7 @@ target/
 *.iws
 *.iml
 *.ipr
-src/main/java/br/com/alura/screenmatch/service/ConsultaChatGPT.java
+
 
 ### NetBeans ###
 /nbproject/private/
